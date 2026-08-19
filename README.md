@@ -12,3 +12,5 @@ are not yet finalized and are ongoing.
 This project builds on the official HiFiC codebase released by 
 Mentzer et al. (2020), Copyright 2020 The TensorFlow Compression Authors, 
 licensed under the Apache License 2.0. See NOTICE.md for details.
+
+Included for now are the tests on the chromosomes. For more details, please refer to the data.
