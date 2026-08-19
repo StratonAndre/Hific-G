@@ -1,7 +1,7 @@
 # HiFiC-G
 
 Adaptation of the High-Fidelity Generative Image Compression (HiFiC) 
-architecture for Hi-C chromozme contact matrices, developed as part of 
+architecture for Hi-C chromosome contact matrices, developed as part of 
 a Bachelors thesis at Transilvania University of Brașov (UNITBV).
 
 **Status:** Active development. Some experiments (in particular the 
